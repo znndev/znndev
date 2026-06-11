@@ -1,16 +1,31 @@
-## Hi there 👋
+### Hi, I'm Sara Alzannan 
 
-<!--
-**znndev/znndev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--- 
 
-Here are some ideas to get you started:
+> Computer Science Student passionate about AI, Software Development, and  building solutions for real-world problems.
+Currently focusing on Back-End Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Projects
+
+**Tiryaq** - AI-powered clinical decision support system [**`View`**](https://github.com/znndev/tiryaq)
+
+**RiskRise**  - AI financial market simulation game *(In Progress)* **`View`**
+
+**University Registration System** - Java desktop application with database management [**`View`**](https://github.com/znndev/university-registration)
+
+---
+
+### Skills
+
+`Python` `C++` `Java` `Assembly` `OpenGL`
+
+`HTML` `CSS` `JavaScript` `Verilog`
+
+`SQL` `Databases` `AI` `UI/UX`
+
+---
+
+### Contact
+[Email ](alzannan@outlook.com) &nbsp; **·** &nbsp; [ LinkedIn](www.linkedin.com/in/sara-alzannan )
