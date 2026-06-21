@@ -28,4 +28,4 @@ Currently focusing on Back-End Development.
 ---
 
 ### Contact
-[Email ](alzannan@outlook.com) &nbsp; **·** &nbsp; [ LinkedIn](www.linkedin.com/in/sara-alzannan )
+[Email ](mailto:alzannan@outlook.com) &nbsp; **·** &nbsp; [ LinkedIn](https://www.linkedin.com/in/sara-alzannan )
